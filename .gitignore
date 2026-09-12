@@ -1,0 +1,5 @@
+.build/
+build/
+.clang-cache/
+.DS_Store
+*.csv
